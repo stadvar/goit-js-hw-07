@@ -1,0 +1,12 @@
+.nav .link {
+  display: block;
+  margin: 10px;
+  padding: 3px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  color: brown;
+  width: 100px;
+}
